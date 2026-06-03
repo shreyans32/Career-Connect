@@ -1,3 +1,3 @@
-# Job Platform
+# Career Connect
 
-A backend API for a job portal application built using Node.js, Express.js and MongoDB.
+A Backend API for a job management and career platform built using Node.js, Express.js and MongoDB
