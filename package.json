@@ -1,7 +1,7 @@
 {
-  "name": "job-portal",
+  "name": "career-connect",
   "version": "1.0.0",
-  "description": "Backend API for Job Portal Application",
+  "description": "Carrer Connect Backend API",
   "main": "server.js",
   "type": "module",
   "scripts": {
